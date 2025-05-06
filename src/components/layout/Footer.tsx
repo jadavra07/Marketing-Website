@@ -192,8 +192,17 @@ const Footer = () => {
 
         <div className="border-t border-gray-700 mt-12 pt-8 text-center">
           <p className="text-noor-lightGray">
-            © {new Date().getFullYear()} Noor digital Marketing. All rights
+            © {new Date().getFullYear()} Noor Digital Marketing. All rights
             reserved.
+            <br />
+            Developed by{" "}
+            <a
+              href="https://www.linkedin.com/in/hiten-jadavra"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Hiten Jadavra
+            </a>
           </p>
         </div>
       </div>
