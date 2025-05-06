@@ -191,20 +191,20 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-700 mt-12 pt-8 text-center">
-          <p className="text-noor-lightGray">
-            © {new Date().getFullYear()} Noor Digital Marketing. All rights
-            reserved.
-            <br />
-            Developed by{" "}
-            <a
-              href="https://www.linkedin.com/in/hiten-jadavra"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              Hiten Jadavra
-            </a>
-          </p>
-        </div>
+  <p className="text-noor-lightGray">
+    Crafted with care by{" "}
+    <a
+      href="https://www.linkedin.com/in/hiten-jadavra"
+      target="_blank"
+      rel="noopener noreferrer"
+      className="underline hover:text-white transition-colors"
+    >
+      Hiten Jadavra
+    </a>{" "}
+    · © {new Date().getFullYear()} Noor Digital Marketing
+  </p>
+</div>
+
       </div>
     </footer>
   );
