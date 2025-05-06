@@ -35,7 +35,7 @@ const Header = () => {
       <div className="container-width section-padding flex justify-between items-center">
         <NavLink to="/" className="flex items-center">
           <span className="font-montserrat font-bold text-2xl text-noor-brown">
-            Noor <span className="text-noor-gold">Digital Marketing</span>
+          Tech <span className="text-noor-gold">Codeez</span>
           </span>
         </NavLink>
 

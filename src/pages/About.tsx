@@ -103,7 +103,7 @@ const About = () => {
       <section className="bg-gradient-to-r from-noor-brown to-noor-darkBrown py-20">
         <div className="container-width section-padding text-center text-white">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">
-            About Noor Digital marketing
+            About Tech Codeez
           </h1>
           <p className="text-xl max-w-3xl mx-auto">
             We're a team of digital marketing experts passionate about helping

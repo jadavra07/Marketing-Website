@@ -5,15 +5,15 @@ import { Button } from "@/components/ui/button";
 const testimonials = [
   {
     id: 1,
-    text: "Noor Digital Marketing completely transformed our online presence. Their strategic approach to digital marketing has increased our leads by 175% in just 6 months. We couldn't be happier with the results!",
-    name: "Dhara Jadav",
+    text: "Tech Codeez completely transformed our online presence. Their strategic approach to digital marketing has increased our leads by 175% in just 6 months. We couldn't be happier with the results!",
+    name: "Adome Jadav",
     title: "Marketing Director, TechFlow Inc.",
     image: "https://randomuser.me/api/portraits/women/32.jpg",
     logo: "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.png",
   },
   {
     id: 2,
-    text: "Working with Noor Digital Marketing has been a game-changer for our brand. Their team's expertise in SEO and content marketing helped us achieve top rankings for our most valuable keywords, driving significant revenue growth.",
+    text: "Working with Tech Codeez has been a game-changer for our brand. Their team's expertise in SEO and content marketing helped us achieve top rankings for our most valuable keywords, driving significant revenue growth.",
     name: "Michael Chen",
     title: "CEO, GrowthWave",
     image: "https://randomuser.me/api/portraits/men/46.jpg",
@@ -21,7 +21,7 @@ const testimonials = [
   },
   {
     id: 3,
-    text: "The social media strategy Noor Digital Marketing created for our launch campaign exceeded all expectations. We saw engagement rates triple within weeks, and our subscriber base grew faster than we ever anticipated.",
+    text: "The social media strategy Tech Codeez Marketing created for our launch campaign exceeded all expectations. We saw engagement rates triple within weeks, and our subscriber base grew faster than we ever anticipated.",
     name: "Sarah Johnson",
     title: "Founder, EcoLife",
     image: "https://randomuser.me/api/portraits/women/65.jpg",

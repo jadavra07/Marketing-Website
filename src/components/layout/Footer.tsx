@@ -11,7 +11,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <h3 className="text-xl font-bold mb-4">Noor digital Marketing</h3>
+            <h3 className="text-xl font-bold mb-4">Tech Codeez</h3>
             <p className="text-noor-lightGray mb-6">
               Transforming businesses through innovative digital marketing
               strategies and creative solutions.
@@ -201,7 +201,7 @@ const Footer = () => {
     >
       Hiten Jadavra
     </a>{" "}
-    · © {new Date().getFullYear()} Noor Digital Marketing
+    · © {new Date().getFullYear()} Tech Codeez
   </p>
 </div>
 
